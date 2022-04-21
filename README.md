@@ -10,3 +10,6 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/c-cpp.yml)
+
+
+[![Build_CI - Linux](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/linux.yml/badge.svg)](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/linux.yml)
