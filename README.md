@@ -13,3 +13,6 @@
 
 
 [![Build_CI - Linux](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/linux.yml/badge.svg)](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/linux.yml)
+
+
+[![Git Inspector](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/Git%20Inspector.yml)
