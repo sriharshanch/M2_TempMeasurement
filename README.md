@@ -16,3 +16,6 @@
 
 
 [![Git Inspector](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/Git%20Inspector.yml)
+
+
+[![Bulid CI - windows](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/windows.yml/badge.svg)](https://github.com/sriharshanch/M2_TempMeasurement/actions/workflows/windows.yml)
